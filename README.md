@@ -1,1 +1,4 @@
 # StockWatcher
+
+
+commit from mac
