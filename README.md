@@ -1,8 +1,3 @@
 # StockWatcher
 
-
-commit from mac
-
-
-
-commit 1
+This is a simple application that uses the Google Web Toolkit.
